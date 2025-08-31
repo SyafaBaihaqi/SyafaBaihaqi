@@ -40,5 +40,5 @@
 ---
 
 ## ✉ Hubungi saya
-[![Gmail Badge](https://img.shields.io/badge/-syafa@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:muhammadsyafa101@gmail.com)](mailto:muhammadsyafa101@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-muhammadsyafa101@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:muhammadsyafa101@gmail.com)](mailto:muhammadsyafa101@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/SyafaBaihaqi)](https://linkedin.com/in/SyafaBaihaqi)
