@@ -2,7 +2,7 @@
 
 💻 *Tentang saya*  
 - 🌱 Saat ini belajar: C++, Web Development (HTML, CSS, JS), Godot & Ren'Py.  
-- 🎮 Suka bikin: mini-game, aplikasi sederhana, dan eksperimen coding.  
+- 🎮 Project: mini-game, aplikasi sederhana, dan eksperimen coding.  
 - 📚 Target: membangun portfolio dengan project nyata.  
 
 ---
