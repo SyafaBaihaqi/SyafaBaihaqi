@@ -26,9 +26,9 @@
 ---
 
 ## 🚀 Project Unggulan
-- 🎮 [Mini RPG in C++](https://github.com/SyafaBaihaqi/rpg-cpp) – game turn-based  
+- 🎮 [Mini RPG in C++](https://github.com/SyafaBaihaqi/rpg-cpp) – game turn-based RPG berbasis teks
 - 🌐 [Personal Website](https://github.com/SyafaBaihaqi/personal-website) – portfolio & showcase  
-- 🕹 [Isekai Adventure (Ren'Py)](https://github.com/SyafaBaihaqi/isekai-adventure) – visual novel RPG  
+- 🕹 [Isekai Adventure (Ren'Py)](https://github.com/SyafaBaihaqi/isekai-adventure) – visual novel RPG
 
 ---
 
