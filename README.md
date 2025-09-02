@@ -9,7 +9,7 @@
 
 ## 📊 Statistik GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyafaBaihaqi&show_icons=true&theme=radical)  
-![Top Langs]()  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyafaBaihaqi&layout=compact&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=SyafaBaihaqi&theme=radical)  
 ![Visitor Count](https://komarev.com/ghpvc/?username=SyafaBaihaqi&color=blue)
 
