@@ -34,9 +34,10 @@
 
 ## ✨ Current Focus
 - Membuat game Godot dengan fitur eksplorasi & pertarungan bergiliran  
-- Membuat game sederhana berbasis teks menggunakan C++ 
+- Membuat game sederhana berbasis teks menggunakan C++
+- Membuat Program sederhana menggunakan C++
 - Mempelajari algoritma & struktur data untuk project C++ lebih kompleks  
-- Mengembangkan personal website interaktif  
+- Mengembangkan personal website interaktif
 
 ---
 
