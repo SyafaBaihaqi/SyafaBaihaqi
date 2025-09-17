@@ -1,5 +1,7 @@
 # 👋 Halo, Perkenalkan nama saya Muhammad Syafa Baihaqi!
 
+"Coding Is Fun"
+
 💻 *Tentang saya*  
 - 🌱 Saat ini belajar: C++, Web Development (HTML, CSS, JS), Godot & Ren'Py.  
 - 🎮 Project: mini-game, aplikasi sederhana, dan eksperimen coding.  
