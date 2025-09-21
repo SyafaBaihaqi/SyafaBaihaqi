@@ -39,6 +39,8 @@
 - Mempelajari algoritma & struktur data untuk project C++ lebih kompleks  
 - Mengembangkan personal website interaktif
 
+#RajinNgoding
+
 ---
 
 ## ✉ Hubungi saya
