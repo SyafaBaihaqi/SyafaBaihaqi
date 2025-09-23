@@ -42,6 +42,10 @@
 ## QUOTES
 
    "RAJIN NGODING"
+ 
+## KATA-KATA HARI INI
+
+   "Null"
 
 ---
 
