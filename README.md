@@ -45,7 +45,7 @@
  
 ## KATA-KATA HARI INI
 
-   "Null"
+   "Malas Ngoding"
 
 ---
 
